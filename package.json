@@ -1,0 +1,16 @@
+{
+  "name": "TaskList",
+  "version": "0.0.1",
+  "description": "Simple task list",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rolando Benjamin Vaz Ferreira",
+  "license": "CC0",
+  "dependencies": {
+    "express": "~4.13.3",
+    "body-parser": "~1.13.3",
+    "bluebird": "~2.9.34"
+  }
+}
